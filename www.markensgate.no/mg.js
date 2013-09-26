@@ -71,7 +71,7 @@
   
  function medlem() {
 	  var request = $.ajax({
-		  url: "reg/registrering.php",
+		  url: "registrering.php",
 		  type: "GET",            
 		  dataType: "html"
 	  });
@@ -87,7 +87,7 @@
   
   function loginn() {
 	  var request = $.ajax({
-		  url: "login/main_login.php",
+		  url: "main_login.php",
 		  type: "GET",            
 		  dataType: "html"
 	  });
