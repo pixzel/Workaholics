@@ -39,12 +39,9 @@ pixzel
 # www.markensgate.no
 
 v 1.0
-
 - Det endelige forslaget til markensgate.no ut ifra papirprotoype (23.09.13)
 - html/css/javascript/php og Ajax.
 
 v 1.1
-
 - Lagt til "bli medlem" og "log inn"
 - Lastet opp mysql database
-- 
