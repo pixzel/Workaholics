@@ -45,3 +45,7 @@ v 1.0
 v 1.1
 - Lagt til "bli medlem" og "log inn"
 - Lastet opp mysql database
+
+v 1.2
+- Fikset registrering
+- Fikset log inn
