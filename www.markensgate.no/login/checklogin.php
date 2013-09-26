@@ -1,10 +1,10 @@
 <?php
 
 $host="markensgate.mysql.domeneshop.no"; // Host name 
-$username="markensgate "; // Mysql username 
+$username="markensgate"; // Mysql username 
 $password="BJEYv8MK"; // Mysql password 
 $db_name="markensgate"; // Database name 
-$tbl_name="members"; // Table name 
+$tbl_name="member"; // Table name 
 
 // Connect to server and select databse.
 mysql_connect("$host", "$username", "$password")or die("cannot connect"); 
@@ -37,7 +37,7 @@ else {
 echo "Wrong Username or Password";
 }
 
-$brid = $_POST['brid'];
+/*$brid = $_POST['brid'];
 $passord=$_POST['passord'];
 $gpassord=$POST['gpassord'];
 include 'reg.html';
@@ -48,7 +48,7 @@ if($passord != "" & $gpassord != ""  ){
 	
 }
 	
-
+*/
 
 
 ?>

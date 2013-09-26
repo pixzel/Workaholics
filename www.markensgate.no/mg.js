@@ -71,7 +71,7 @@
   
  function medlem() {
 	  var request = $.ajax({
-		  url: "medlem.php",
+		  url: "reg/registrering.php",
 		  type: "GET",            
 		  dataType: "html"
 	  });
@@ -85,33 +85,19 @@
 	  });
   }
   
-  //script for å loggein 
-  
-  
- 
- 
-function check()/*function to check userid & password*/
-{
-	
-	alert(hei)
-	
-var bnavn = document.getElementsById(brid).innerHTML;
- var passord = document.getElementsById(passord).innerHTML;
- var gpassord= document.getElementsById(gpassord).innerHTML;
- /*the following code checkes whether the entered userid and password are matching*/
- //if(form.userid.value == "myuserid" && form.pswrd.value == "mypswrd")
-//  {
-//    window.open('target.html')/*opens the target page while Id & password matches*/
-//  }
-// else
-// {
-//   alert("Error Password or Username")/*displays error message*/
-//  }
+  function loginn() {
+	  var request = $.ajax({
+		  url: "login/main_login.php",
+		  type: "GET",            
+		  dataType: "html"
+	  });
 
+	  request.done(function(msg) {
+		  $("#mybox").html(msg);          
+	  });
 
-if(passord ==gpassord ){
-	alert (bnavn );
-	window.open('target.html')
-	
-	}
-}
+	  request.fail(function(jqXHR, textStatus) {
+		  alert( "Request failed: " + textStatus );
+	  });
+  }
+
