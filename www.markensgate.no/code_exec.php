@@ -10,6 +10,6 @@ $pic=$_POST['pic'];
 $username=$_POST['username'];
 $password=$_POST['password'];
 mysql_query("INSERT INTO member(fname, lname, gender, address, contact, picture, username, password)VALUES('$fname', '$lname', '$mname', '$address', '$contact', '$pic', '$username', '$password')");
-header("location: index.php?remarks=success");
+header("location: main_login.php?remarks=success");
 mysql_close($con);
 ?>
