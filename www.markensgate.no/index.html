@@ -2,17 +2,18 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Hjem</title>
+<title>Untitled Document</title>
 <link href="mg.css" rel="stylesheet" type="text/css" />
-<link href="SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
+<link href="SpryAssets/SpryMenuBarHorizontal.css"  rel="stylesheet" type="text/css" />
 <script src="mg.js"></script>
 <script src="SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 </head>
 
-<body>
+<body id="body" onload="random_imglink()">
 <div id="hedder">
+
 
 
 
@@ -39,8 +40,6 @@
       </ul>
     </li>-->
     <li><a href="#" onclick="kontakt()">Kontakt</a></li>
-     <li><a href="#" onclick="medlem()">Bli Medlem</a></li>
-     <li><a href="#" onclick="loginn()">Login</a></li>
   </ul>
   <form class="form">
   <input type="text" name="søkefelt" id="sfelt"   />
@@ -50,12 +49,14 @@
 
 
 <div id="midten">
-<center><h3 class="h1">Her kommer det bilde av markesgate</h3></center>
+
+<center><h3>Her kommer det bilde av markesgate</h3></center>
 </div>
+
 <div id="mybox">
 
-<div id="info1" class="infodiv">
-info div 1
+<div id ="info1"class="infodiv" >
+
 </div>
 
 
@@ -64,16 +65,22 @@ info div 2
 </div>
 
 
-<div class="infodiv" id="info3">
+<div id="info3" class="infodiv">
 info div 3
 </div>
- <!--<input type="button" value="Update" onclick="myCall()" />-->
+ 
 
-</div>
+
 <div id="footer">
 </div>
+</div>
+
+</body>
+
 <script type="text/javascript">
 var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+
+
+
 </script>
-</body>
 </html>
