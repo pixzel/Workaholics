@@ -1,3 +1,6 @@
+#body{
+	background-position:center;
+}
 .loginform{
 	margin-left:100px;
 	alignment-adjust:central;
@@ -5,6 +8,8 @@
 #hedder{
 	height:100px;
 	background:#000;
+	width:1332px;
+	background:url(pic/banner.jpg)
 	
 	
 	}
@@ -14,18 +19,23 @@
 	top:-100px;
 	background:#999;
 	height:200px;
-	
+	width:1332px;
 	
 	}
 #mybox{
 	top:-300px;
-	height:316px;
+	
+	width:1332px;
 	
 	}
 #footer{
-	top:616px;
+	top:700px;
 	background:#000;
 	height:34px;
+	background:url(pic/footer.jpg);
+	width:1332px;
+	
+	
 	
 	}
 .form{
@@ -35,16 +45,18 @@
 	}
 
 #info1{
-	margin-top:12px;
+	margin-bottom:10px;
+	margin-top:10px;
 	margin-left:20px;
 	font-family:Verdana, Geneva, sans-serif;
 	font-size:12px;
-	
-	
 	height:250px;
 	width:367px;
+	size:inherit;
 	}
 #info2{
+	margin-bottom:10px;
+	margin-top:10px;
 	margin-top:-250px;
 	margin-left:494px;
 	font-family:Verdana, Geneva, sans-serif;
@@ -53,7 +65,8 @@
 	width:367px;}
 
 #info3{
-	
+	margin-bottom:10px;
+	margin-top:10px;
 	margin-top:-250px;
 	float:right;
 	margin-right:20px;

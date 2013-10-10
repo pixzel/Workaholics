@@ -71,7 +71,7 @@
   
  function medlem() {
 	  var request = $.ajax({
-		  url: "reg/registrering.php",
+		  url: "registrering.php",
 		  type: "GET",            
 		  dataType: "html"
 	  });
@@ -87,7 +87,7 @@
   
   function loginn() {
 	  var request = $.ajax({
-		  url: "login/main_login.php",
+		  url: "main_login.php",
 		  type: "GET",            
 		  dataType: "html"
 	  });
@@ -101,3 +101,51 @@
 	  });
   }
 
+
+//Kode for å laste in bilder inn i infodiveve
+
+
+
+
+
+
+
+function random_imglink(){
+var myimages=new Array();
+//specify random images below. You can have as many as you wish
+
+
+
+
+
+ // refresh every 10000 milliseconds
+
+
+myimages[1]="pic/infodiv/image1.gif";
+myimages[2]="pic/infodiv/image2.gif";
+myimages[3]="pic/infodiv/image3.gif";
+myimages[4]="pic/infodiv/image4.gif";
+myimages[5]="pic/infodiv/image5.gif";
+myimages[6]="pic/infodiv/image6.gif";
+
+	
+var ry=Math.floor(Math.random()*myimages.length);
+if (ry==0){
+ry=1;}
+
+
+document.getElementById("info1").innerHTML=('<img src="'+myimages[ry]+'" border=1 width="250px" height="250px" margin-bottom="5px">');
+$('#info1').fadeIn("slow");
+	
+
+
+}
+
+
+
+
+var auto_refresh = setInterval(
+function ()
+{
+random_imglink();
+}, 10000);
