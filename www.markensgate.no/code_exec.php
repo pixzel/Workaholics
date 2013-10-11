@@ -1,15 +1,39 @@
 <?php
 session_start();
 include('connection.php');
-$fname=$_POST['fname'];
-$lname=$_POST['lname'];
-$mname=$_POST['mname'];
-$address=$_POST['address'];
-$contact=$_POST['contact'];
-$pic=$_POST['pic'];
-$username=$_POST['username'];
-$password=$_POST['password'];
-mysql_query("INSERT INTO member(fname, lname, gender, address, contact, picture, username, password)VALUES('$fname', '$lname', '$mname', '$address', '$contact', '$pic', '$username', '$password')");
+
+
+$fnavn=$_POST['fnavn'];
+$enavn=$_POST['enavn'];
+$adresse=$_POST['adresse'];
+$tlf=$_POST['tlf'];
+$mail=$_POST['mail'];
+$bnavn=$_POST['bnavn'];
+$passord =$_POST['passord'];
+$gpassord=$_POST['gpassord'];
+
+
+mysql_query("INSERT INTO medlemmer(
+`Fornavn`,
+`Etternavn`, 
+`Adresse`,
+`Telefonnummer`,
+`E_mail`,
+`Brukernavn`, 
+`Passord`,
+`Gjenta passor`)
+VALUES(
+'$fnavn',
+'$enavn',
+'$adresse',
+'$tlf',
+'$mail',
+'$bnavn',
+'$passord',
+'$gpassord')");
+
 header("location: main_login.php?remarks=success");
 mysql_close($con);
+
+
 ?>

@@ -1,20 +1,34 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="index.html" server="ftp.domeneshop.no" local="130258807789647916" remote="130258735800000000" Dst="2" />
-<file name="mg.css" server="ftp.domeneshop.no" local="130257320761990699" remote="130257248400000000" Dst="2" />
-<file name="mg.js" server="ftp.domeneshop.no" local="130256320670739880" remote="130256254200000000" Dst="2" />
+<file name="index.html" server="ftp.domeneshop.no" local="130259456429050599" remote="130259384400000000" Dst="2" />
+<file name="mg.css" server="ftp.domeneshop.no" local="130259441239271518" remote="130259368800000000" Dst="2" />
+<file name="mg.js" server="ftp.domeneshop.no" local="130259452051112795" remote="130259380800000000" Dst="2" />
 <file name="mg.html" server="ftp.domeneshop.no" local="130256236300047181" remote="130256193000000000" Dst="2" />
 <file name="kontakt.php" server="ftp.domeneshop.no" local="130245874479444360" remote="130246637400000000" Dst="2" />
 <file name="butikker.php" server="ftp.domeneshop.no" local="130245200638819897" remote="130246637400000000" Dst="2" />
 <file name="infodiv.php" server="ftp.domeneshop.no" local="130245141118219818" remote="130246637400000000" Dst="2" />
 <file name="omoss.php" server="ftp.domeneshop.no" local="130245183978436979" remote="130246637400000000" Dst="2" />
-<file name="checklogin.php" server="ftp.domeneshop.no" local="130247911458130300" remote="130247839800000000" Dst="2" />
-<file name="code_exec.php" server="ftp.domeneshop.no" local="130258790260183835" remote="130258735800000000" Dst="2" />
+<file name="checklogin.php" server="ftp.domeneshop.no" local="130259571186005236" remote="130259499000000000" Dst="2" />
+<file name="code_exec.php" server="ftp.domeneshop.no" local="130259573162024756" remote="130259500800000000" Dst="2" />
 <file name="connection.php" server="ftp.domeneshop.no" local="130258795117739645" remote="130258735800000000" Dst="2" />
-<file name="login_success.php" server="ftp.domeneshop.no" local="130255993000926571" remote="130255920600000000" Dst="2" />
+<file name="login_success.php" server="ftp.domeneshop.no" local="130259452714644078" remote="130259380800000000" Dst="2" />
 <file name="Logout.php" server="ftp.domeneshop.no" local="130246349658881703" remote="130246637400000000" Dst="2" />
-<file name="main_login.php" server="ftp.domeneshop.no" local="130248790304438402" remote="130252618800000000" Dst="2" />
-<file name="registrering.php" server="ftp.domeneshop.no" local="130247921268686269" remote="130247849400000000" Dst="2" />
+<file name="main_login.php" server="ftp.domeneshop.no" local="130259453183237765" remote="130259427000000000" Dst="2" />
+<file name="registrering.php" server="ftp.domeneshop.no" local="130259569111145203" remote="130259497200000000" Dst="2" />
 <file name="AC_RunActiveContent.js" server="ftp.domeneshop.no" local="130256443317579044" remote="130256374200000000" Dst="2" />
 <file name="test.html" server="ftp.domeneshop.no" local="130256443198271488" remote="130256374200000000" Dst="2" />
+<file name="connection.php" server="ftp.domeneshop.no/www/" local="130258795117739645" remote="130259502000000000" Dst="2" />
+<file name="code_exec.php" server="ftp.domeneshop.no/www/" local="130259573465427140" remote="130259502000000000" Dst="2" />
+<file name="connection.php" server="ftp.domeneshop.no//" local="130258795117739645" remote="130259507400000000" Dst="2" />
+<file name="code_exec.php" server="ftp.domeneshop.no//" local="130259639636517644" remote="130259570400000000" Dst="2" />
+<file name="registrering.php" server="ftp.domeneshop.no//" local="576229992300544" remote="130259559000000000" Dst="2" />
+<file name="AC_RunActiveContent.js" server="ftp.domeneshop.no//" local="130256443317579044" remote="130259521200000000" Dst="2" />
+<file name="checklogin.php" server="ftp.domeneshop.no//" local="130259571186005236" remote="130259521200000000" Dst="2" />
+<file name="index.html" server="ftp.domeneshop.no//" local="130259456429050599" remote="130259521200000000" Dst="2" />
+<file name="login_success.php" server="ftp.domeneshop.no//" local="130259611301902926" remote="130259559000000000" Dst="2" />
+<file name="main_login.php" server="ftp.domeneshop.no//" local="130259453183237765" remote="130259521200000000" Dst="2" />
+<file name="mg.css" server="ftp.domeneshop.no//" local="130259441239271518" remote="130259521200000000" Dst="2" />
+<file name="mg.html" server="ftp.domeneshop.no//" local="130256236300047181" remote="130259521200000000" Dst="2" />
+<file name="mg.js" server="ftp.domeneshop.no//" local="130259452051112795" remote="130259521200000000" Dst="2" />
+<file name="test.html" server="ftp.domeneshop.no//" local="130256443198271488" remote="130259521200000000" Dst="2" />
 </dwsync>

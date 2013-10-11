@@ -8,8 +8,9 @@
 #hedder{
 	height:100px;
 	background:#000;
-	width:1332px;
-	background:url(pic/banner.jpg)
+	width:1080px;
+	background:url(pic/banner.jpg);
+	margin-left:121px;
 	
 	
 	}
@@ -19,22 +20,24 @@
 	top:-100px;
 	background:#999;
 	height:200px;
-	width:1332px;
+	width:1080px;
+	margin-left:121px;
 	
 	}
 #mybox{
+	
 	top:-300px;
-	
-	width:1332px;
-	
+	height:500px;
+	width:1080px;
+	margin-left:121px;
 	}
 #footer{
 	top:700px;
 	background:#000;
 	height:34px;
 	background:url(pic/footer.jpg);
-	width:1332px;
-	
+	width:1080px;
+	margin-left:121px;
 	
 	
 	}

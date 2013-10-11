@@ -4,7 +4,7 @@ $host="markensgate.mysql.domeneshop.no"; // Host name
 $username="markensgate"; // Mysql username 
 $password="BJEYv8MK"; // Mysql password 
 $db_name="markensgate"; // Database name 
-$tbl_name="member"; // Table name 
+$tbl_name="medlemmer"; // Table name 
 
 // Connect to server and select databse.
 mysql_connect("$host", "$username", "$password")or die("cannot connect"); 
@@ -19,7 +19,7 @@ $myusername = stripslashes($myusername);
 $mypassword = stripslashes($mypassword);
 $myusername = mysql_real_escape_string($myusername);
 $mypassword = mysql_real_escape_string($mypassword);
-$sql="SELECT * FROM $tbl_name WHERE username='$myusername' and password='$mypassword'";
+$sql="SELECT * FROM $tbl_name WHERE Brukernavn='$myusername' and passord='$mypassword'";
 $result=mysql_query($sql);
 
 // Mysql_num_row is counting table row
@@ -32,23 +32,14 @@ if($count==1){
 session_register("myusername");
 session_register("mypassword"); 
 header("location:login_success.php");
+
+
 }
 else {
 echo "Wrong Username or Password";
 }
 
-/*$brid = $_POST['brid'];
-$passord=$_POST['passord'];
-$gpassord=$POST['gpassord'];
-include 'reg.html';
 
-
-if($passord != "" & $gpassord != ""  ){
-	echo "hei";
-	
-}
-	
-*/
 
 
 ?>

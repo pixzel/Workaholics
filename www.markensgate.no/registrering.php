@@ -5,20 +5,20 @@
 <script type="text/javascript">
 function validateForm()
 {
-var a=document.forms["reg"]["fname"].value;
-var b=document.forms["reg"]["lname"].value;
-var c=document.forms["reg"]["mname"].value;
-var d=document.forms["reg"]["address"].value;
-var e=document.forms["reg"]["contact"].value;
-var f=document.forms["reg"]["pic"].value;
-var g=document.forms["reg"]["pic"].value;
-var h=document.forms["reg"]["pssword"].value;
+var a=document.forms["reg"]["fnavn"].value;
+var b=document.forms["reg"]["enavn"].value;
+var c=document.forms["reg"]["adresse"].value;
+var d=document.forms["reg"]["tlf"].value;
+var e=document.forms["reg"]["mail"].value;
+var f=document.forms["reg"]["bnavn"].value;
+var g=document.forms["reg"]["passord"].value;
+var h=document.forms["reg"]["gpassord"].value;
 
 //if ((a==null || a=="") && (b==null || b=="") && (c==null || c=="") && (d==null || d=="") && (e==null || e=="") && (f==null || f==""))
-  {
-  alert("Alle felt må fylles ut");
-  return false;
-  }
+  //{
+//  alert("Alle felt må fylles ut");
+//  return false;
+//  }
 if (a==null || a=="")
   {
   alert("Alle felt må fylles ut");
@@ -39,11 +39,11 @@ if (d==null || d=="")
   alert("Alle felt må fylles ut");
   return false;
   }
-//if (e==null || e=="")
-//  {
-//  alert("contact must be filled out");
-//  return false;
-//  }
+if (e==null || e=="")
+  {
+  alert("E-post adressen må fylles ut");
+  return false;
+  }
 if (f==null || f=="")
   {
   alert("Alle felt må fylles utt");
@@ -63,13 +63,14 @@ if (h==null || h=="")
 	   alert("Passodet stemmer ikke overens");
 	  
 	  }
+	  
 }
 </script>
 </head>
 
 <body>
 
-<form name="reg" action="code_exec.php" onsubmit="return validateForm()" method="post">
+<form name="reg" action="code_exec.php" onSubmit="return validateForm()" method="post">
 <table width="274" border="0" align="center" cellpadding="2" cellspacing="0">
   <tr>
     <td colspan="2">
@@ -84,41 +85,41 @@ if (h==null || h=="")
 		{
 		echo 'Registration Success';
 		}
-		?>	
+				?>	
 	    </div></td>
   </tr>
   <tr>
-    <td width="95"><div align="right">First Name:</div></td>
-    <td width="171"><input type="text" name="fname" /></td>
+    <td width="95"><div align="right">Fornavn:</div></td>
+    <td width="171"><input type="text" name="fnavn" /></td>
   </tr>
   <tr>
-    <td><div align="right">Last Name:</div></td>
-    <td><input type="text" name="lname" /></td>
+    <td><div align="right">Etternavn:</div></td>
+    <td><input type="text" name="enavn" /></td>
   </tr>
   
   <tr>
     <td><div align="right">Adresse:</div></td>
-    <td><input type="text" name="address" /></td>
+    <td><input type="text" name="adresse" /></td>
   </tr>
   <tr>
     <td><div align="right">Telefonnummer.:</div></td>
-    <td><input type="text" name="contact" /></td>
+    <td><input type="text" name="tlf" /></td>
   </tr>
   <tr>
     <td><div align="right">E-mail:</div></td>
-    <td><input type="text" name="pic" /></td>
+    <td><input type="text" name="mail" /></td>
   </tr>
  <tr>
     <td><div align="right">Brukernavn:</div></td>
-    <td><input type="text" name="username" /></td>
+    <td><input type="text" name="bnavn" /></td>
   </tr>
  <tr>
     <td><div align="right">Passord:</div></td>
-    <td><input type="password" name="password" /></td>
+    <td><input type="text" name="passord" /></td>
   </tr>
   <tr>
     <td><div align="right">Gjenta Passordet:</div></td>
-    <td><input type="password" name="mname" /></td>
+    <td><input type="password" name="gpassord" /></td>
   </tr>
   <tr>
     <td><div align="right"></div></td>

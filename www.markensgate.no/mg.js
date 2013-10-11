@@ -144,6 +144,10 @@ $('#info1').fadeIn("slow");
 
 
 
+
+
+
+
 var auto_refresh = setInterval(
 function ()
 {
