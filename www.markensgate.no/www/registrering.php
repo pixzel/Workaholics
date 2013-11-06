@@ -61,7 +61,7 @@ if (h==null || h=="")
   alert("Alle felt må fylles ut");
   return false;
   }
-  if(g!=h){
+  if(c!=h){
 	
 	 
 	   alert("Passodet stemmer ikke overens");
@@ -119,7 +119,7 @@ if (h==null || h=="")
   </tr>
  <tr>
     <td><div align="right">Passord:</div></td>
-    <td><input type="password" name="passord" /></td>
+    <td><input type="text" name="passord" /></td>
   </tr>
   <tr>
     <td><div align="right">Gjenta Passordet:</div></td>
