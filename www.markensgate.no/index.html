@@ -11,7 +11,10 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 </head>
 
-<body>
+<body onload="random_imglink()" >
+
+<div style="margin:0 auto;">
+
 <div id="hedder">
 
 
@@ -50,8 +53,10 @@
 
 
 <div id="midten">
-<center><h3 class="h1">Her kommer det bilde av markesgate</h3></center>
+
+<img src="pic/gata.jpg" width="1080" height="200" alt="gata" />
 </div>
+
 <div id="mybox">
 
 <div id="info1" class="infodiv">
@@ -75,5 +80,8 @@ info div 3
 <script type="text/javascript">
 var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
 </script>
+
+</div>
+
 </body>
 </html>

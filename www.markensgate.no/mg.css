@@ -1,40 +1,55 @@
-#body{
-	background-position:center;
+body{
+	margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+	
 }
 .loginform{
 	margin-left:100px;
 	alignment-adjust:central;
 	}
 #hedder{
+	
+	/*
+	top: 0; 
+    left: 0; 
+
+    position:relative;
+
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+	
+	*/
+	
 	height:100px;
 	background:#000;
-	width:1332px;
-	background:url(pic/banner.jpg)
+	width:1080px;
+	background:url(pic/banner.jpg);
+	margin-left:121px;
 	
 	
 	}
 	
 	
 #midten{
-	top:-100px;
 	background:#999;
 	height:200px;
-	width:1332px;
+	width:1080px;
+	margin-left:121px;
 	
 	}
 #mybox{
 	top:-300px;
-	
-	width:1332px;
-	
+	height:100%;
+	width:1080px;
+	margin-left:121px;
 	}
 #footer{
 	top:700px;
 	background:#000;
 	height:34px;
 	background:url(pic/footer.jpg);
-	width:1332px;
-	
+	width:1080px;
+	margin-left:121px;
 	
 	
 	}

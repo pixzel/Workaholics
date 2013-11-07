@@ -144,8 +144,18 @@ $('#info1').fadeIn("slow");
 
 
 
+
+
+
+
 var auto_refresh = setInterval(
 function ()
 {
 random_imglink();
 }, 10000);
+
+
+
+//tester for reg formen
+
+
