@@ -49,3 +49,10 @@ v 1.1
 v 1.2
 - Fikset registrering
 - Fikset log inn
+
+
+
+v 1.5 superfix
+
+- Kontakt oppdatert
+- Inspirasjon og kode fra 123contactform.com
