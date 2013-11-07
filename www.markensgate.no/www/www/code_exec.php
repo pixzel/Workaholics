@@ -34,11 +34,8 @@ VALUES(
 
 
 $remarks=$_GET['remarks'];
-if($remarks=="success"){
-	$_POST[login()];
-	
-	}
 header("location: main_login.php?remarks=success");
 mysql_close($con);
+
 
 ?>
