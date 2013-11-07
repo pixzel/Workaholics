@@ -155,7 +155,3 @@ random_imglink();
 }, 10000);
 
 
-
-//tester for reg formen
-
-
