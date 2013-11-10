@@ -12,9 +12,9 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 </head>
 
-<body onload="random_imglink()" >
+<body onload="random_imglink(),random_imglink1(),random_imglink2()">
 
-<div style="margin:0 auto;">
+
 
 <div id="hedder">
 
@@ -23,25 +23,11 @@
   
   <ul id="MenuBar1" class="MenuBarHorizontal">
     <li><a class="MenuBarItemSubmenu" href="#" onclick="infodiv()"><span class="nyskrift">Hjem</span></a>
-     <!-- <ul>
-        <li><a href="#">Item 1.1</a></li>
-        <li><a href="#">Item 1.2</a></li>
-        <li><a href="#">Item 1.3</a></li>
-      </ul>-->
     </li>
     <li><a href="#" class="nyskrift" onclick="butikker()">Butikker</a></li>
     <li><a class="MenuBarItemSubmenu" href="#" onclick="omoss()"><span class="nyskrift">Om oss</span></a>
-    <!--  <ul>
-        <li><a class="MenuBarItemSubmenu" href="#">Item 3.1</a>
-          <ul>
-            <li><a href="#">Item 3.1.1</a></li>
-            <li><a href="#">Item 3.1.2</a></li>
-          </ul>
-        </li>
-        <li><a href="#">Item 3.2</a></li>
-        <li><a href="#">Item 3.3</a></li>
-      </ul>
-    </li>-->
+    
+    </li>
     <li><a href="#" class="nyskrift" onclick="kontakt()">Kontakt</a></li>
      <li><a href="#" class="nyskrift" onclick="medlem()">Bli Medlem</a></li>
      <li><a href="#" class="nyskrift" onclick="loginn()">Login</a></li>
@@ -54,14 +40,14 @@
   </ul>
 </div>
 
-
+<div id="bakgrunn">
 <div id="midten"><img src="pic/gata.jpg" width="1080" height="200" alt="gata" />
 </div>
 
 
 <div id="mybox">
 
-<div id="info1" class="infodiv">4info div 1
+<div id="info1" class="infodiv">info div 1
 </div>
 
 
@@ -70,22 +56,24 @@ info div 2
 </div>
 
 
-<div class="infodiv" id="info3">
+<div id="info3" class="infodiv" >
 info div 3
 </div>
- <!--<input type="button" value="Update" onclick="myCall()" />--></div>
+
+</div>
  
  
 <div id="footer">
 <hr width="1080" />
 
-<p>©2013 Workaholics
-</div>
+<p>©2013 Workaholics</p>
 
+</div>
 
 <script type="text/javascript">
 var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
 </script>
+
 
 </div>
 
