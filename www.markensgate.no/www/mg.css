@@ -45,10 +45,10 @@ body{
 	margin-left:121px;
 	}
 #footer{
+	
 	top:700px;
-	background:#000;
+	text-align:right;
 	height:34px;
-	background:url(pic/footer.jpg);
 	width:1080px;
 	margin-left:121px;
 	
