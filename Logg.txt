@@ -15,9 +15,11 @@ Denne loggen inneholder følgende;
 *  Evaluering av arbiedet i hver sprint, gjøres på SCRUM møter
 	hver mandag - onsdag - fredag, der vi identifiserer eventuelle nye oppgaver til backlogg
 	samt flytter oppgaver fra backlogg - under arbeid - ferdigstilt.
+* Til slutt kommer korte referat av oppgaver fordelt per sprint.
 ----------------------------------------------------------
 
 BACKLOGG:
+
 1: Søkefunksjon som virker, googlesearch + google ranking.	BØR
 2: Design: mouseover oppførsel på elementer generelt på siden. MÅ
 3: Design evaluering generelt for siden. Farger, plasseringer, størrelser etc. MÅ
@@ -26,22 +28,45 @@ BACKLOGG:
 
 -----------------------------------------------------------
 UNDER ARBEID:
-1: Footer/Innhold, farge, form, størrelse, plassering. Sondre, est:20min. MÅ
-2: www- virker ikke. Fikse dette. Jens, est:20min. MÅ
-3: Sentrere side + marger. Behzad, est:4t. BØR
+
+1: Oppdatere logg og lage sammendrag forrige sprint. Tor Erik, 15min. 
+2: Flytte logg slik at den kommer i samme mappe som README. Tor Erik, 5min.
+3: Få oversikt over justering samt innspill til lay-out/design. Alle, 1-2t. MÅ
 4: Link på logo m/cursorhånd. Jens, 15min. BØR
-5: <title> markenssgate m/thumbnail. Tor Erik, 1t. MÅ
-6: Ordne tabell med butikker. Sondre, 1,5t. MÅ
-7: Innhold "om oss". Tor Erik, 1t. MÅ
-8: Innhold, plassering og bilder "kontakt". Jens: 4t. MÅ
-9: Reetablering av nytt og bedre logg-system. Tor Erik: 1t. MÅ
+5: 
+6: 
+7: 
+8: 
+9: 
 
 
 
 
 ------------------------------------------------------------
 FERDIGSTILT:
-1:
-2:
-3:
-4:
+
+1: Footer/Innhold, farge, form, størrelse, plassering. Sondre, est:20min. MÅ/brukt:20.min
+2: www- virker ikke. Fikse dette. Jens, est:20min. MÅ/brukt:5min.
+3: Sentrere side + marger. Behzad, est:4t. BØR/brukt:4timer.
+4: <title> markenssgate m/thumbnail. Tor Erik, Jens 1t. MÅ/brukt:20min.
+5: Ordne tabell med butikker. Sondre, 1,5t. MÅ/brukt:1,5t.
+6: Innhold "om oss". Tor Erik, 1t. MÅ/brukt:1time.
+7: Innhold, plassering og bilder "kontakt". Jens: 4t. MÅ/brukt:2,5timer.
+8: Reetablering av nytt og mer oversiktlig logg-system. Tor Erik: 1t. MÅ/brukt:2timer.
+
+------------------------------------------------------------
+Sprint fredag 08.11.13 - Mandag 11.11.13
+
+*) Arbeid med presntasjon for grupper. Jens innledning og ide. Tor Erik prosjekt
+Sondre Design og Behzad kode og kodevalg. Laget enkel PP presentasjon og egen notater.
+
+1: Footer/Innhold, farge, form, størrelse, plassering. Sondre, est:20min. MÅ
+2: www- virker ikke. Fikse dette. Jens, est:20min. MÅ
+3: Sentrere side + marger. Behzad, est:4t. BØR
+4: <title> markenssgate m/thumbnail. Tor Erik, 1t. MÅ
+5: Ordne tabell med butikker. Sondre, 1,5t. MÅ
+6: Innhold "om oss". Tor Erik, 1t. MÅ
+7: Innhold, plassering og bilder "kontakt". Jens: 4t. MÅ
+8: Reetablering av nytt og bedre logg-system. Tor Erik: 1t. MÅ
+-------------------------------------------------------------
+Sprint mandag 11.11.13 - onsdag 13.11.13
