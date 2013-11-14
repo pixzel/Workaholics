@@ -20,25 +20,35 @@ Denne loggen inneholder følgende;
 
 BACKLOGG:
 
-1: Søkefunksjon som virker, googlesearch + google ranking.	BØR
-2: Design: mouseover oppførsel på elementer generelt på siden. MÅ
-3: Design evaluering generelt for siden. Farger, plasseringer, størrelser etc. MÅ
-4: Design - knapper. MÅ
-5: 
+1:  Søkefunksjon som virker, googlesearch + google ranking.	BØR
+2:  Design: mouseover oppførsel på elementer generelt på siden. MÅ
+3:  Endre fra php til html(ref;janis)MÅ
+4:  Søkefunksjon-plassering. MÅ
+5:  Lage "om oss" html. MÅ
+6:  Lage "butikker" html. MÅ
+7:  Lage "kontakt" html. MÅ
+8:  Lage "login" html - JavaScript alerts - fungerende php.MÅ
+9:  Lage og koble CSS. MÅ
+10: Fargevlag iht. designprinsipper. MÅ
+11: Lage oversikt over designvalg iht. heurisme, gestalt, 7-dødsynder. MÅ
 
 
 -----------------------------------------------------------
 UNDER ARBEID:
 
-1: Oppdatere logg og lage sammendrag forrige sprint. Tor Erik, 15min. 
-2: Flytte logg slik at den kommer i samme mappe som README. Tor Erik, 5min.
-3: Få oversikt over justering samt innspill til lay-out/design. Alle, 1-2t. MÅ
-4: Link på logo m/cursorhånd. Jens, 15min. BØR
-5: Design evaluering generelt for siden. Farger, plasseringer, størrelser etc. MÅ
-6: Gjøre om fra php onload til html sider.
-7: 
-8: 
-9: 
+1:  Oppdatere logg og lage sammendrag forrige sprint. Tor Erik, 15min. 
+2:  Flytte logg slik at den kommer i samme mappe som README. Tor Erik, 5min.
+3:  Få oversikt over justering samt innspill til lay-out/design. Alle, 1-2t. MÅ
+4:  Link på logo m/cursorhånd. Jens, 15min. BØR
+5:  Design evaluering generelt for siden. Farger, plasseringer, størrelser etc. MÅ
+6:  Gjøre om fra php onload til html sider.
+7:  Design evaluering generelt for siden. Farger, plasseringer, størrelser etc. MÅ
+8:  Design knapper i header/index. MÅ - Alle/
+9:  Design header/index. MÅ - Alle/
+10: Design Footer/index. MÅ - Alle/ 
+11: Design generelt index html. MÅ - Alle/
+12: Border rundt bilder og knapper. MÅ Alle/
+13. 
 
 
 
@@ -75,7 +85,7 @@ Sprint mandag 11.11.13 - onsdag 13.11.13
 1: Jobbe med ideer til finpuss og justering på lay.out og design. Alle:1-2t. MÅ 
 2:
 -------------------------------------------------------------
-Sprint onsdag 13.11.13 - 15.11.13
+Sprint onsdag 13.11.13 - fredag 15.11.13
 
 1:
 2:
