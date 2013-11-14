@@ -24,30 +24,35 @@ BACKLOGG:
 2:  Design: mouseover oppførsel på elementer generelt på siden. MÅ
 3:  Endre fra php til html(ref;janis)MÅ
 4:  Søkefunksjon-plassering. MÅ
-5:  Lage "om oss" html. MÅ
-6:  Lage "butikker" html. MÅ
-7:  Lage "kontakt" html. MÅ
-8:  Lage "login" html - JavaScript alerts - fungerende php.MÅ
-9:  Lage og koble CSS. MÅ
+5:  
+6:  
+7:  
+8:  
+9:  Lage og koble CSS. 
 10: Fargevlag iht. designprinsipper. MÅ
 11: Lage oversikt over designvalg iht. heurisme, gestalt, 7-dødsynder. MÅ
+12: Design evaluering generelt for siden. Farger, plasseringer, størrelser etc. Alle/MÅ
+13: Sortere og rense opp i mappestruktur og kode.
+14:
+15:
+16:
 
 
 -----------------------------------------------------------
 UNDER ARBEID:
 
 1:  Oppdatere logg og lage sammendrag forrige sprint. Tor Erik, 15min. 
-2:  Flytte logg slik at den kommer i samme mappe som README. Tor Erik, 5min.
-3:  Få oversikt over justering samt innspill til lay-out/design. Alle, 1-2t. MÅ
-4:  Link på logo m/cursorhånd. Jens, 15min. BØR
-5:  Design evaluering generelt for siden. Farger, plasseringer, størrelser etc. MÅ
-6:  Gjøre om fra php onload til html sider.
-7:  Design evaluering generelt for siden. Farger, plasseringer, størrelser etc. MÅ
-8:  Design knapper i header/index. MÅ - Alle/
-9:  Design header/index. MÅ - Alle/
-10: Design Footer/index. MÅ - Alle/ 
-11: Design generelt index html. MÅ - Alle/
-12: Border rundt bilder og knapper. MÅ Alle/
+2:  Lage "om oss" html. MÅ/Tor Erik. est:1time
+3:  Lage "kontakt" html. MÅ/Jens. est:20min.
+4:  Lage "login" html - JavaScript alerts - fungerende php.MÅ/2timer.
+5:  Lage "butikker" html. MÅ/Sondre. est.1time
+6:  
+7:  
+8:  
+9:  
+10: 
+11: 
+12: 
 13. 
 
 
@@ -56,14 +61,23 @@ UNDER ARBEID:
 ------------------------------------------------------------
 FERDIGSTILT:
 
-1: Footer/Innhold, farge, form, størrelse, plassering. Sondre, est:20min. MÅ/brukt:20.min
-2: www- virker ikke. Fikse dette. Jens, est:20min. MÅ/brukt:5min.
-3: Sentrere side + marger. Behzad, est:4t. BØR/brukt:4timer.
-4: <title> markenssgate m/thumbnail. Tor Erik, Jens 1t. MÅ/brukt:20min.
-5: Ordne tabell med butikker. Sondre, 1,5t. MÅ/brukt:1,5t.
-6: Innhold "om oss". Tor Erik, 1t. MÅ/brukt:1time.
-7: Innhold, plassering og bilder "kontakt". Jens: 4t. MÅ/brukt:2,5timer.
-8: Reetablering av nytt og mer oversiktlig logg-system. Tor Erik: 1t. MÅ/brukt:2timer.
+1:  Footer/Innhold, farge, form, størrelse, plassering. Sondre, est:20min. MÅ/brukt:20.min
+2:  www- virker ikke. Fikse dette. Jens, est:20min. MÅ/brukt:5min.
+3:  Sentrere side + marger. Behzad, est:4t. BØR/brukt:4timer.
+4:  <title> markenssgate m/thumbnail. Tor Erik, Jens 1t. MÅ/brukt:20min.
+5:  Ordne tabell med butikker. Sondre, 1,5t. MÅ/brukt:1,5t.
+6:  Innhold "om oss". Tor Erik, 1t. MÅ/brukt:1time.
+7:  Innhold, plassering og bilder "kontakt". Jens: 4t. MÅ/brukt:2,5timer.
+8:  Reetablering av nytt og mer oversiktlig logg-system. Tor Erik: 1t. MÅ/brukt:2timer.
+9:  Flytte logg slik at den kommer i samme mappe som README. Tor Erik, 5min./brukt 5min.
+10: Få oversikt over justering samt innspill til lay-out/design. Alle, 1-2t. MÅ/brukt:1,5tX4.
+11: Link på logo m/cursorhånd. Jens, 15min. BØR/brukt:10min
+12: Foreløpig design evaluering generelt for siden. Farger, plasseringer, størrelser etc. Alle/MÅ/brukt:30min.X3.
+13: Gjøre om fra php onload til html sider. Alle. MÅ/brukt: 30min.x4
+14: Design header/index. MÅ - Alle/brukt: 30min.x4
+15: Design Footer/index. MÅ - Alle/brukt: 20min.x4
+16: Design generelt index html. MÅ - Alle/brukt.20min.x4
+17: Border rundt bilder og knapper. MÅ Alle/brukt.30min.x4
 
 ------------------------------------------------------------
 Sprint fredag 08.11.13 - Mandag 11.11.13
@@ -85,7 +99,9 @@ Sprint mandag 11.11.13 - onsdag 13.11.13
 1: Jobbe med ideer til finpuss og justering på lay.out og design. Alle:1-2t. MÅ 
 2:
 -------------------------------------------------------------
-Sprint onsdag 13.11.13 - fredag 15.11.13
+Sprint onsdag 13.11.13 - torsdag 14.11.13
 
 1:
 2:
+-------------------------------------------------------------
+Sprint torsdag 14.11.13 - tirsdag 19.11.13
