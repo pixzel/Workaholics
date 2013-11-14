@@ -1,4 +1,4 @@
-Logg for markensgate.no
+﻿Logg for markensgate.no
 En webaplikasjon av gruppa Workaholics
 Sondre Lind, Behzad Zafar, Jens Holm og Tor Erik Kaalaas
 ---------------------------------------------------------
@@ -24,6 +24,7 @@ BACKLOGG:
 2: Design: mouseover oppførsel på elementer generelt på siden. MÅ
 3: Design evaluering generelt for siden. Farger, plasseringer, størrelser etc. MÅ
 4: Design - knapper. MÅ
+5: 
 
 
 -----------------------------------------------------------
@@ -33,8 +34,8 @@ UNDER ARBEID:
 2: Flytte logg slik at den kommer i samme mappe som README. Tor Erik, 5min.
 3: Få oversikt over justering samt innspill til lay-out/design. Alle, 1-2t. MÅ
 4: Link på logo m/cursorhånd. Jens, 15min. BØR
-5: 
-6: 
+5: Design evaluering generelt for siden. Farger, plasseringer, størrelser etc. MÅ
+6: Gjøre om fra php onload til html sider.
 7: 
 8: 
 9: 
@@ -70,3 +71,11 @@ Sondre Design og Behzad kode og kodevalg. Laget enkel PP presentasjon og egen no
 8: Reetablering av nytt og bedre logg-system. Tor Erik: 1t. MÅ
 -------------------------------------------------------------
 Sprint mandag 11.11.13 - onsdag 13.11.13
+
+1: Jobbe med ideer til finpuss og justering på lay.out og design. Alle:1-2t. MÅ 
+2:
+-------------------------------------------------------------
+Sprint onsdag 13.11.13 - 15.11.13
+
+1:
+2:
