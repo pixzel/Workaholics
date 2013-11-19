@@ -22,18 +22,19 @@ BACKLOGG:
 
 1:  Søkefunksjon som virker, googlesearch + google ranking.	BØR
 2:  Design: mouseover oppførsel på elementer generelt på siden. MÅ
-3:  Endre fra php til html(ref;janis)MÅ
-4:  Søkefunksjon-plassering. MÅ
-5:  
-6:  
-7:  
-8:  
+3:  Søkefunksjon-plassering. MÅ
+4:  Footer/Innhold, farge, form, størrelse, plassering. Lik på alle sider 
+5:  Hjem: Illustrasjon på innhold.
+6:  Design alle html: De skal være mest mulig like. Eks: borders/ikke borders.
+7:  Login: CTRL/scroll, innholdet overlapper.
+8:  Login: Skriftstørrelse/plassering. Fremheve overskrifter/kolon plassering/bolds
+9:  Login: JavaScript alerts på mouseover "Bli medlem" og "login"
 9:  Lage og koble CSS. 
 10: Fargevlag iht. designprinsipper. MÅ
 11: Lage oversikt over designvalg iht. heurisme, gestalt, 7-dødsynder. MÅ
 12: Design evaluering generelt for siden. Farger, plasseringer, størrelser etc. Alle/MÅ
 13: Sortere og rense opp i mappestruktur og kode.
-14:
+14: Kontakt: Justere styling iht. likhets/gjenkjennelses prinsipp.
 15:
 16:
 
@@ -42,10 +43,10 @@ BACKLOGG:
 UNDER ARBEID:
 
 1:  Oppdatere logg og lage sammendrag forrige sprint. Tor Erik, 15min. 
-2:  Lage "om oss" html. MÅ/Tor Erik. est:1time
-3:  Lage "kontakt" html. MÅ/Jens. est:20min.
-4:  Lage "login" html - JavaScript alerts - fungerende php.MÅ/2timer.
-5:  Lage "butikker" html. MÅ/Sondre. est.1time
+2:  
+3:  
+4:  <!--Gruppa jobber med innlevering av prosjektrapport denne uka.---->
+5:  
 6:  
 7:  
 8:  
@@ -61,7 +62,7 @@ UNDER ARBEID:
 ------------------------------------------------------------
 FERDIGSTILT:
 
-1:  Footer/Innhold, farge, form, størrelse, plassering. Sondre, est:20min. MÅ/brukt:20.min
+1:  
 2:  www- virker ikke. Fikse dette. Jens, est:20min. MÅ/brukt:5min.
 3:  Sentrere side + marger. Behzad, est:4t. BØR/brukt:4timer.
 4:  <title> markenssgate m/thumbnail. Tor Erik, Jens 1t. MÅ/brukt:20min.
@@ -78,6 +79,12 @@ FERDIGSTILT:
 15: Design Footer/index. MÅ - Alle/brukt: 20min.x4
 16: Design generelt index html. MÅ - Alle/brukt.20min.x4
 17: Border rundt bilder og knapper. MÅ Alle/brukt.30min.x4
+18: Lage "kontakt" html. MÅ/Jens. est:20min.
+19: Endre fra php til html(ref;janis)MÅ
+20: 
+21: 
+22: 
+23: 
 
 ------------------------------------------------------------
 Sprint fredag 08.11.13 - Mandag 11.11.13
@@ -101,7 +108,18 @@ Sprint mandag 11.11.13 - onsdag 13.11.13
 -------------------------------------------------------------
 Sprint onsdag 13.11.13 - torsdag 14.11.13
 
-1:
-2:
+1: Jens forbereder gjennomgang av siden. Jens/brukt: 1t.
+2: La om fra php til html i sidestruktur. Alle/brukt:30min.
+3: Hele gruppa jobber med siste design utkast.
 -------------------------------------------------------------
 Sprint torsdag 14.11.13 - tirsdag 19.11.13
+
+1:  Oppdatere logg og lage sammendrag forrige sprint. Tor Erik, 15min.
+2:  Lage "butikker" html. MÅ/Sondre. est.1time/brukt:30min
+3:  Lage "om oss" html. MÅ/Tor Erik. est:1time/brukt:30min
+4:  Lage "login" html - JavaScript alerts - fungerende php.MÅ/2timer.
+-------------------------------------------------------------
+Sprint tirsdag 19.11.13 - fredag 22.11.13
+
+1:  Gruppa jobber med innlevering av prosjektoppgave.
+2:  Gruppa forbereder seg til neste sprint/justering av siden/design/styling.
