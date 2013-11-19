@@ -35,7 +35,7 @@ BACKLOGG:
 12: Design evaluering generelt for siden. Farger, plasseringer, størrelser etc. Alle/MÅ
 13: Sortere og rense opp i mappestruktur og kode.
 14: Kontakt: Justere styling iht. likhets/gjenkjennelses prinsipp.
-15:
+15: <title> markenssgate m/thumbnail i alle html. MÅ/Tor Erik
 16:
 
 
