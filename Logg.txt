@@ -32,7 +32,7 @@ BACKLOGG:
 9:  Lage og koble CSS. 
 10: Fargevlag iht. designprinsipper. MÅ
 11: Lage oversikt over designvalg iht. heurisme, gestalt, 7-dødsynder. MÅ
-12: 
+12: Fjerne "bullets" på Om Oss-siden. Tor Erik. Bør/EST:30min.
 13: 
 14: 
 15: 
@@ -47,12 +47,12 @@ UNDER ARBEID:
 3:  Design alle html: De skal være mest mulig like. Eks: borders/ikke borders. Alle
 4:  <!--Gruppa jobber med innlevering av prosjektrapport denne uka.---->
 5:  Design evaluering generelt for siden. Farger, plasseringer, størrelser etc. Alle/MÅ
-6:  Hjem: Illustrasjon på innhold.
-7:  Login: CTRL/scroll, innholdet overlapper./Behzad.EST:1time.
-8:  Footer/Innhold, farge, form, størrelse, plassering. Lik på alle sider./Sondre. EST:30min.
-9:  Sortere og rense opp i mappestruktur og kode./Behzad/Alle. EST1-2timer.
-10: Lage og koble CSS. Alle.EST:kontinuerlig.
-11: Kontakt: Justere styling iht. likhets/gjenkjennelses prinsipp./Alle. EST:?
+6:  Hjem: Illustrasjon på innhold./Sondre. EST:1time. BØR
+7:  Login: CTRL/scroll, innholdet overlapper./Behzad.EST:1time. MÅ
+8:  Footer/Innhold, farge, form, størrelse, plassering. Lik på alle sider./Sondre. EST:30min. MÅ
+9:  Sortere og rense opp i mappestruktur og kode./Behzad/Alle. EST1-2timer. MÅ
+10: Lage og koble CSS. Alle.EST:kontinuerlig. MÅ
+11: Kontakt: Justere styling iht. likhets/gjenkjennelses prinsipp./Alle. EST:? MÅ
 12: 
 13. 
 
