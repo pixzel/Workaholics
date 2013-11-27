@@ -23,19 +23,19 @@ BACKLOGG:
 1:  Søkefunksjon som virker, googlesearch + google ranking.	BØR
 2:  Design: mouseover oppførsel på elementer generelt på siden. MÅ
 3:  Søkefunksjon-plassering. MÅ
-4:  Footer/Innhold, farge, form, størrelse, plassering. Lik på alle sider 
-5:  Hjem: Illustrasjon på innhold.
-6:  Design alle html: De skal være mest mulig like. Eks: borders/ikke borders.
-7:  Login: CTRL/scroll, innholdet overlapper.
+4:   
+5:  
+6:  
+7:  
 8:  Login: Skriftstørrelse/plassering. Fremheve overskrifter/kolon plassering/bolds
 9:  Login: JavaScript alerts på mouseover "Bli medlem" og "login"
 9:  Lage og koble CSS. 
 10: Fargevlag iht. designprinsipper. MÅ
 11: Lage oversikt over designvalg iht. heurisme, gestalt, 7-dødsynder. MÅ
-12: Design evaluering generelt for siden. Farger, plasseringer, størrelser etc. Alle/MÅ
-13: Sortere og rense opp i mappestruktur og kode.
-14: Kontakt: Justere styling iht. likhets/gjenkjennelses prinsipp.
-15: <title> markenssgate m/thumbnail i alle html. MÅ/Tor Erik
+12: 
+13: 
+14: 
+15: 
 16:
 
 
@@ -43,16 +43,16 @@ BACKLOGG:
 UNDER ARBEID:
 
 1:  Oppdatere logg og lage sammendrag forrige sprint. Tor Erik, 15min. 
-2:  
-3:  
+2:  <title> markenssgate m/thumbnail i alle html. MÅ/Tor Erik. EST:30min
+3:  Design alle html: De skal være mest mulig like. Eks: borders/ikke borders. Alle
 4:  <!--Gruppa jobber med innlevering av prosjektrapport denne uka.---->
-5:  
-6:  
-7:  
-8:  
-9:  
-10: 
-11: 
+5:  Design evaluering generelt for siden. Farger, plasseringer, størrelser etc. Alle/MÅ
+6:  Hjem: Illustrasjon på innhold.
+7:  Login: CTRL/scroll, innholdet overlapper./Behzad.EST:1time.
+8:  Footer/Innhold, farge, form, størrelse, plassering. Lik på alle sider./Sondre. EST:30min.
+9:  Sortere og rense opp i mappestruktur og kode./Behzad/Alle. EST1-2timer.
+10: Lage og koble CSS. Alle.EST:kontinuerlig.
+11: Kontakt: Justere styling iht. likhets/gjenkjennelses prinsipp./Alle. EST:?
 12: 
 13. 
 
@@ -123,3 +123,9 @@ Sprint tirsdag 19.11.13 - fredag 22.11.13
 
 1:  Gruppa jobber med innlevering av prosjektoppgave.
 2:  Gruppa forbereder seg til neste sprint/justering av siden/design/styling.
+--------------------------------------------------
+Sprint onsdag 27.11.13 - fredag 29.11.13
+
+1: 
+2: 
+3: 
