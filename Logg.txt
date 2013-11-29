@@ -48,7 +48,7 @@ UNDER ARBEID:
 4:  <!--Gruppa jobber med innlevering av prosjektrapport denne uka.---->
 5:  Design evaluering generelt for siden. Farger, plasseringer, størrelser etc. Alle/MÅ
 6:  Hjem: Illustrasjon på innhold./Sondre. EST:1time. BØR
-7:  Login: CTRL/scroll, innholdet overlapper./Behzad.EST:1time. MÅ
+7:
 8:  Footer/Innhold, farge, form, størrelse, plassering. Lik på alle sider./Sondre. EST:30min. MÅ
 9:  Sortere og rense opp i mappestruktur og kode./Behzad/Alle. EST1-2timer. MÅ
 10: Lage og koble CSS. Alle.EST:kontinuerlig. MÅ
@@ -81,9 +81,9 @@ FERDIGSTILT:
 17: Border rundt bilder og knapper. MÅ Alle/brukt.30min.x4
 18: Lage "kontakt" html. MÅ/Jens. est:20min.
 19: Endre fra php til html(ref;janis)MÅ
-20: 
-21: 
-22: 
+20: Login: CTRL/scroll, innholdet overlapper./Behzad.EST:1time. 
+21: Farge på alle knappene. 20 min.
+22: Ryddet i html koden. 40 min.
 23: 
 
 ------------------------------------------------------------
