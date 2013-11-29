@@ -82,9 +82,10 @@ FERDIGSTILT:
 18: Lage "kontakt" html. MÅ/Jens. est:20min.
 19: Endre fra php til html(ref;janis)MÅ
 20: Login: CTRL/scroll, innholdet overlapper./Behzad.EST:1time. 
-21: Farge på alle knappene. 20 min.
-22: Ryddet i html koden. 40 min.
-23: 
+21: Farge på alle knappene. Behzad 20 min.
+22: Ryddet i html koden. Behzad 40 min.
+23: Ryddet i mg.js fila. Behzad. 2 min.
+24: fikset loginn test inputtformen.Behzad. 30 min.
 
 ------------------------------------------------------------
 Sprint fredag 08.11.13 - Mandag 11.11.13
