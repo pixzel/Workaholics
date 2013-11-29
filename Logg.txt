@@ -1,4 +1,4 @@
-﻿Logg for markensgate.no
+﻿.Logg for markensgate.no
 En webaplikasjon av gruppa Workaholics
 Sondre Lind, Behzad Zafar, Jens Holm og Tor Erik Kaalaas
 ---------------------------------------------------------
