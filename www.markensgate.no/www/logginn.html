@@ -2,14 +2,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Logg Inn</title>
-<link rel="shortcut icon" type="image/x-icon" href="pic/favicon3.ico">
+<title>Markensgate</title>
+<link rel="shortcut icon" type="image/x-icon" href="pic/favicon.ico">
 <link href="mg.css" rel="stylesheet" type="text/css" />
 
 <script src="mg.js"></script>
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-</head><body onload="random_imglink(),random_imglink1(),random_imglink2()">
+</head>
+<body>
 
 <div id="header">
 		<div class="section">
@@ -33,27 +34,113 @@
 				</li>
 			</ul>
 		</div>
-</div>>
-
- <form id="cse-search-box" action="http://google.com/cse" style="float: right; left: 1056px; top: 185px; width: 217px;">
+</div>
+<form id="cse-search-box" action="http://google.com/cse" style="float: right; left: 1056px; top: 185px; width: 217px;">
     <input type="hidden" name="cx" value="005570125805745513577:0_6wgsjeos8" />
   <input type="hidden" name="ie" value="UTF-8" />
   <input type="text" name="q" size="20" />
-     <input id="knapp" type="submit" name="sa" value="Søk" />
+     <input class="knapp" type="submit" name="sa" value="Søk" />
 </form>
 <div id="body">
-  </ul>
+<form name="reg" action="code_exec.php" onSubmit="return validateForm()" method="post">
 
-<img src="pic/gata.jpg" style="border: 4px solid #0090FF; width="1080" height="200" alt="gata" /></div>
 
-<div id="infok" style="height:550px;">
- <p>Her kommer logg inn</p>
+
+<table width="274" border="0"float="left" cellpadding="2" cellspacing="0"><p class="nyskrift">Bli medlem</p>
+		  <?php 
+		$remarks=$_GET['remarks'];
+		if ($remarks==null and $remarks=="")
+		{
+		echo'Registrer deg her';
+		}
+		if ($remarks=='success')
+		{
+		echo 'Registration Success';
+		}
+				?>	
+	    </td>
+  </tr>
+  <tr>
+    <td width="109"><span class="nyskrift">Fornavn:</span></td>
+    <td width="157"><input type="text" name="fnavn" /></td>
+  </tr>
+  <tr>
+    <td><span class="nyskrift">Etternavn:</span></td>
+    <td><input type="text" name="enavn" /></td>
+  </tr>
+  
+  <tr>
+    <td><span class="nyskrift">Adresse:</span></td>
+    <td><input type="text" name="adresse" /></td>
+  </tr>
+  <tr>
+    <td><span class="nyskrift">Telefonnummer:</span></td>
+    <td><input type="text" name="tlf" /></td>
+  </tr>
+  <tr>
+    <td><span class="nyskrift">E-mail:</span></td>
+    <td><input type="text" name="mail" /></td>
+  </tr>
+ <tr>
+    <td><span class="nyskrift">Brukernavn:</span></td>
+    <td><input type="text" name="bnavn" /></td>
+  </tr>
+ <tr>
+    <td><span class="nyskrift">Passord:</span></td>
+    <td><input type="password" name="passord" /></td>
+  </tr>
+  <tr>
+    <td><span class="nyskrift">Gjenta Passord:</span></td>
+    <td><input type="password" name="gpassord" /></td>
+  </tr>
+  <tr>
+    <td><div align="right"></div></td>
+    
+    <td><input  onclick="validateForm()" class="knapp" name="Registrer" type="submit" value="Registrer" /></td>
+  </tr>
+</table>
+</form>
+  
+  
+  
+<table width="300" border="0"  cellpadding="0" cellspacing="1" style="position: absolute; left: 752px; top: 202px; width: 301px;">
+<tr>
+<form name="form1" method="post" action="checklogin.php">
+<td>
+<table width="100%" border="0" cellpadding="3" cellspacing="1" >
+<tr>
+<td colspan="3" class="nyskrift"><p>Log in for medlemmer</p></td>
+</tr>
+<tr>
+<td width="78" class="nyskrift">Brukernavn</td>
+<td width="6">:</td>
+<td width="294"><input name="myusername" type="text" id="myusername"></td>
+</tr>
+<tr>
+<td class="nyskrift">Passord</td>
+<td>:</td>
+<td><input name="mypassword" type="password" id="mypassword"></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><input class="knapp"type="submit" name="Loginn" value="Login"></td>
+</tr>
+</table>
+</td>
+</form>
+</tr>
+</table>
+<br />
+<hr />
+<p>©2013 Workaholics</p>
 </div>
 
-<div id="footer">
-  <p>©2013 Workaholics</p>
 
-</div>
+
+  
+
+
 
 </body>
 </html>
