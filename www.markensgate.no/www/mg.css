@@ -4,10 +4,13 @@
 	border:none;
 	color:#FFF;
 	}
+	
 
-.loginform{
-	margin-left:100px;
-	alignment-adjust:central;
+#loginform{
+	float:right;
+	margin-top:-22px;
+	width: 301px;
+	
 	}
 	
 #hedder{

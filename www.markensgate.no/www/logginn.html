@@ -44,7 +44,34 @@
 <div id="body">
 <form name="reg" action="code_exec.php" onSubmit="return validateForm()" method="post">
 
-
+<table width="300" id="loginform" border="0"  cellpadding="0" cellspacing="1">
+<tr>
+<form name="form1" method="post" action="checklogin.php">
+<td>
+<table width="100%" border="0" cellpadding="3" cellspacing="1" >
+<tr>
+<td colspan="3" class="nyskrift"><p>Log in for medlemmer</p></td>
+</tr>
+<tr>
+<td width="78" class="nyskrift">Brukernavn</td>
+<td width="6">:</td>
+<td width="294"><input name="myusername" type="text" id="myusername"></td>
+</tr>
+<tr>
+<td class="nyskrift">Passord</td>
+<td>:</td>
+<td><input name="mypassword" type="password" id="mypassword"></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><input class="knapp"type="submit" name="Loginn" value="Login"></td>
+</tr>
+</table>
+</td>
+</form>
+</tr>
+</table>
 
 <table width="274" border="0"float="left" cellpadding="2" cellspacing="0"><p class="nyskrift">Bli medlem</p>
 		  <?php 
@@ -103,34 +130,7 @@
   
   
   
-<table width="300" border="0"  cellpadding="0" cellspacing="1" style="position: absolute; left: 752px; top: 202px; width: 301px;">
-<tr>
-<form name="form1" method="post" action="checklogin.php">
-<td>
-<table width="100%" border="0" cellpadding="3" cellspacing="1" >
-<tr>
-<td colspan="3" class="nyskrift"><p>Log in for medlemmer</p></td>
-</tr>
-<tr>
-<td width="78" class="nyskrift">Brukernavn</td>
-<td width="6">:</td>
-<td width="294"><input name="myusername" type="text" id="myusername"></td>
-</tr>
-<tr>
-<td class="nyskrift">Passord</td>
-<td>:</td>
-<td><input name="mypassword" type="password" id="mypassword"></td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td><input class="knapp"type="submit" name="Loginn" value="Login"></td>
-</tr>
-</table>
-</td>
-</form>
-</tr>
-</table>
+
 <br />
 <hr />
 <p>©2013 Workaholics</p>
