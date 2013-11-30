@@ -1,0 +1,47 @@
+Logg for markensgate.no
+En webaplikasjon av gruppa Workaholics
+Sondre Lind, Behzad Zafar, Jens Holm og Tor Erik Kaalaas
+---------------------------------------------------------
+Denne loggen inneholder følgende;
+1) Backlogg, 
+2) Under arbeid 
+3) Ferdigstillt
+
+* Backloggen er vår oppgaveliste med oppgaver som ikke er påbegyunt eller ferdigstilt.
+* Under arbeid er oppgaveliste med oppgaver som arbeides med.
+* Ferdigstilt er oppgavelisten med fullførte oppgaver.
+* Vi har forsøkt å estimere tidsbruk på hver oppgave, samt 
+	prioritering iht. MOSCOW prinsippene.
+*  Evaluering av arbiedet i hver sprint, gjøres på SCRUM møter
+	hver mandag - onsdag - fredag, der vi identifiserer eventuelle nye oppgaver til backlogg
+	samt flytter oppgaver fra backlogg - under arbeid - ferdigstilt.
+----------------------------------------------------------
+
+BACKLOGG:
+1: Søkefunksjon som virker, googlesearch + google ranking.	BØR
+2: Design: mouseover oppførsel på elementer generelt på siden. MÅ
+3: Design evaluering generelt for siden. Farger, plasseringer, størrelser etc. MÅ
+4: Design - knapper. MÅ
+
+
+-----------------------------------------------------------
+UNDER ARBEID:
+1: Footer/Innhold, farge, form, størrelse, plassering. Sondre, est:20min. MÅ
+2: www- virker ikke. Fikse dette. Jens, est:20min. MÅ
+3: Sentrere side + marger. Behzad, est:4t. BØR
+4: Link på logo m/cursorhånd. Jens, 15min. BØR
+5: <title> markenssgate m/thumbnail. Tor Erik, 1t. MÅ
+6: Ordne tabell med butikker. Sondre, 1,5t. MÅ
+7: Innhold "om oss". Tor Erik, 1t. MÅ
+8: Innhold, plassering og bilder "kontakt". Jens: 4t. MÅ
+9: Reetablering av nytt og bedre logg-system. Tor Erik: 1t. MÅ
+
+
+
+
+------------------------------------------------------------
+FERDIGSTILT:
+1:
+2:
+3:
+4:

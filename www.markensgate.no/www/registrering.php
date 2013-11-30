@@ -1,5 +1,6 @@
 ﻿<html>
 <head>
+<link href="mg.css" rel="stylesheet" type="text/css" />
 <title>
 </title>
 
@@ -61,7 +62,7 @@ if (h==null || h=="")
   alert("Alle felt må fylles ut");
   return false;
   }
-  if(c!=h){
+  if(g!=h){
 	
 	 
 	   alert("Passodet stemmer ikke overens");
@@ -78,7 +79,7 @@ if (h==null || h=="")
 <table width="274" border="0" align="center" cellpadding="2" cellspacing="0">
   <tr>
     <td colspan="2">
-		<div align="center">
+		<div align="center"><div class="nyskrift">
 		  <?php 
 		$remarks=$_GET['remarks'];
 		if ($remarks==null and $remarks=="")
@@ -93,41 +94,42 @@ if (h==null || h=="")
 	    </div></td>
   </tr>
   <tr>
-    <td width="95"><div align="right">Fornavn:</div></td>
-    <td width="171"><input type="text" name="fnavn" /></td>
+    <td width="109"><div align="right"><span class="nyskrift">Fornavn</span></span>:</div></td>
+    <td width="157"><input type="text" name="fnavn" /></td>
   </tr>
   <tr>
-    <td><div align="right">Etternavn:</div></td>
+    <td><div align="right"><span class="nyskrift">Etternavn</span>:</div></td>
     <td><input type="text" name="enavn" /></td>
   </tr>
   
   <tr>
-    <td><div align="right">Adresse:</div></td>
+    <td><div align="right"><span class="nyskrift">Adresse</span>:</div></td>
     <td><input type="text" name="adresse" /></td>
   </tr>
   <tr>
-    <td><div align="right">Telefonnummer.:</div></td>
+    <td><div align="right"><span class="nyskrift">Telefonnummer</span>.:</div></td>
     <td><input type="text" name="tlf" /></td>
   </tr>
   <tr>
-    <td><div align="right">E-mail:</div></td>
+    <td><div align="right"><span class="nyskrift">E-mail</span>:</div></td>
     <td><input type="text" name="mail" /></td>
   </tr>
  <tr>
-    <td><div align="right">Brukernavn:</div></td>
+    <td><div align="right"><span class="nyskrift">Brukernavn</span>:</div></td>
     <td><input type="text" name="bnavn" /></td>
   </tr>
  <tr>
-    <td><div align="right">Passord:</div></td>
-    <td><input type="text" name="passord" /></td>
+    <td><div align="right"><span class="nyskrift">Passord</span>:</div></td>
+    <td><input type="password" name="passord" /></td>
   </tr>
   <tr>
-    <td><div align="right">Gjenta Passordet:</div></td>
+    <td><div align="right"><span class="nyskrift">Gjenta Passord</span>:</div></td>
     <td><input type="password" name="gpassord" /></td>
   </tr>
   <tr>
     <td><div align="right"></div></td>
-    <td><input name="submit" type="submit" value="Submit" /></td>
+    
+    <td><input name="submit" type="submit" value="Registrer" /></td>
   </tr>
 </table>
 </form>
