@@ -1,0 +1,132 @@
+﻿.Logg for markensgate.no
+En webaplikasjon av gruppa Workaholics
+Sondre Lind, Behzad Zafar, Jens Holm og Tor Erik Kaalaas
+---------------------------------------------------------
+Denne loggen inneholder følgende;
+1) Backlogg, 
+2) Under arbeid 
+3) Ferdigstillt
+
+* Backloggen er vår oppgaveliste med oppgaver som ikke er påbegyunt eller ferdigstilt.
+* Under arbeid er oppgaveliste med oppgaver som arbeides med.
+* Ferdigstilt er oppgavelisten med fullførte oppgaver.
+* Vi har forsøkt å estimere tidsbruk på hver oppgave, samt 
+	prioritering iht. MOSCOW prinsippene.
+*  Evaluering av arbiedet i hver sprint, gjøres på SCRUM møter
+	hver mandag - onsdag - fredag, der vi identifiserer eventuelle nye oppgaver til backlogg
+	samt flytter oppgaver fra backlogg - under arbeid - ferdigstilt.
+* Til slutt kommer korte referat av oppgaver fordelt per sprint.
+----------------------------------------------------------
+
+BACKLOGG:
+
+1:  Søkefunksjon som virker, googlesearch + google ranking.	BØR
+2:  Design: mouseover oppførsel på elementer generelt på siden. MÅ
+3:  Søkefunksjon-plassering. MÅ
+4:   
+5:  
+6:  
+7:  
+8:  Login: Skriftstørrelse/plassering. Fremheve overskrifter/kolon plassering/bolds
+9:  Login: JavaScript alerts på mouseover "Bli medlem" og "login"
+9:  Lage og koble CSS. 
+10: Fargevlag iht. designprinsipper. MÅ
+11: Lage oversikt over designvalg iht. heurisme, gestalt, 7-dødsynder. MÅ
+12: Fjerne "bullets" på Om Oss-siden. Tor Erik. Bør/EST:30min.
+13: 
+14: 
+15: 
+16:
+
+
+-----------------------------------------------------------
+UNDER ARBEID:
+
+1:  Oppdatere logg og lage sammendrag forrige sprint. Tor Erik, 15min. 
+2:  <title> markenssgate m/thumbnail i alle html. MÅ/Tor Erik. EST:30min
+3:  Design alle html: De skal være mest mulig like. Eks: borders/ikke borders. Alle
+4:  <!--Gruppa jobber med innlevering av prosjektrapport denne uka.---->
+5:  Design evaluering generelt for siden. Farger, plasseringer, størrelser etc. Alle/MÅ
+6:  Hjem: Illustrasjon på innhold./Sondre. EST:1time. BØR
+7:
+8:  Footer/Innhold, farge, form, størrelse, plassering. Lik på alle sider./Sondre. EST:30min. MÅ
+9:  Sortere og rense opp i mappestruktur og kode./Behzad/Alle. EST1-2timer. MÅ
+10: Lage og koble CSS. Alle.EST:kontinuerlig. MÅ
+11: Kontakt: Justere styling iht. likhets/gjenkjennelses prinsipp./Alle. EST:? MÅ
+12: 
+13. 
+
+
+
+
+------------------------------------------------------------
+FERDIGSTILT:
+
+1:  
+2:  www- virker ikke. Fikse dette. Jens, est:20min. MÅ/brukt:5min.
+3:  Sentrere side + marger. Behzad, est:4t. BØR/brukt:4timer.
+4:  <title> markenssgate m/thumbnail. Tor Erik, Jens 1t. MÅ/brukt:20min.
+5:  Ordne tabell med butikker. Sondre, 1,5t. MÅ/brukt:1,5t.
+6:  Innhold "om oss". Tor Erik, 1t. MÅ/brukt:1time.
+7:  Innhold, plassering og bilder "kontakt". Jens: 4t. MÅ/brukt:2,5timer.
+8:  Reetablering av nytt og mer oversiktlig logg-system. Tor Erik: 1t. MÅ/brukt:2timer.
+9:  Flytte logg slik at den kommer i samme mappe som README. Tor Erik, 5min./brukt 5min.
+10: Få oversikt over justering samt innspill til lay-out/design. Alle, 1-2t. MÅ/brukt:1,5tX4.
+11: Link på logo m/cursorhånd. Jens, 15min. BØR/brukt:10min
+12: Foreløpig design evaluering generelt for siden. Farger, plasseringer, størrelser etc. Alle/MÅ/brukt:30min.X3.
+13: Gjøre om fra php onload til html sider. Alle. MÅ/brukt: 30min.x4
+14: Design header/index. MÅ - Alle/brukt: 30min.x4
+15: Design Footer/index. MÅ - Alle/brukt: 20min.x4
+16: Design generelt index html. MÅ - Alle/brukt.20min.x4
+17: Border rundt bilder og knapper. MÅ Alle/brukt.30min.x4
+18: Lage "kontakt" html. MÅ/Jens. est:20min.
+19: Endre fra php til html(ref;janis)MÅ
+20: Login: CTRL/scroll, innholdet overlapper./Behzad.EST:1time. 
+21: Farge på alle knappene. Behzad 20 min.
+22: Ryddet i html koden. Behzad 40 min.
+23: Ryddet i mg.js fila. Behzad. 2 min.
+24: fikset loginn test inputtformen.Behzad. 30 min.
+
+------------------------------------------------------------
+Sprint fredag 08.11.13 - Mandag 11.11.13
+
+*) Arbeid med presntasjon for grupper. Jens innledning og ide. Tor Erik prosjekt
+Sondre Design og Behzad kode og kodevalg. Laget enkel PP presentasjon og egen notater.
+
+1: Footer/Innhold, farge, form, størrelse, plassering. Sondre, est:20min. MÅ
+2: www- virker ikke. Fikse dette. Jens, est:20min. MÅ
+3: Sentrere side + marger. Behzad, est:4t. BØR
+4: <title> markenssgate m/thumbnail. Tor Erik, 1t. MÅ
+5: Ordne tabell med butikker. Sondre, 1,5t. MÅ
+6: Innhold "om oss". Tor Erik, 1t. MÅ
+7: Innhold, plassering og bilder "kontakt". Jens: 4t. MÅ
+8: Reetablering av nytt og bedre logg-system. Tor Erik: 1t. MÅ
+-------------------------------------------------------------
+Sprint mandag 11.11.13 - onsdag 13.11.13
+
+1: Jobbe med ideer til finpuss og justering på lay.out og design. Alle:1-2t. MÅ 
+2:
+-------------------------------------------------------------
+Sprint onsdag 13.11.13 - torsdag 14.11.13
+
+1: Jens forbereder gjennomgang av siden. Jens/brukt: 1t.
+2: La om fra php til html i sidestruktur. Alle/brukt:30min.
+3: Hele gruppa jobber med siste design utkast.
+-------------------------------------------------------------
+Sprint torsdag 14.11.13 - tirsdag 19.11.13
+
+1:  Oppdatere logg og lage sammendrag forrige sprint. Tor Erik, 15min.
+2:  Lage "butikker" html. MÅ/Sondre. est.1time/brukt:30min
+3:  Lage "om oss" html. MÅ/Tor Erik. est:1time/brukt:30min
+4:  Lage "login" html - JavaScript alerts - fungerende php.MÅ/2timer.
+-------------------------------------------------------------
+Sprint tirsdag 19.11.13 - fredag 22.11.13
+
+1:  Gruppa jobber med innlevering av prosjektoppgave.
+2:  Gruppa forbereder seg til neste sprint/justering av siden/design/styling.
+--------------------------------------------------
+Sprint onsdag 27.11.13 - fredag 29.11.13
+
+1: 
+2: 
+3: 
