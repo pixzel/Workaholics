@@ -63,6 +63,12 @@ if (h==null || h=="")
 	  
 } 
    
+ function velkommen_melding(){  
+	 var navn_bruker = document.getElementById("myusername").innerHTML; 
+                              
+ 	var meldings_felt =document.getElementById("velkommen").innerHTML="Hei + navn_bruker";
+ 
+	 }
        
                               
  
